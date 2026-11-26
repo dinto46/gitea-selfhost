@@ -11,4 +11,8 @@ This project is created to test Git operations using a locally hosted Git server
 - OpenSSH
 - SQLite3
 
+Installation Guide:
+For complete installation instructions, configuration
+details, and troubleshooting, refer to:
 
+- [Installation Guide](INSTALLATION.md)
